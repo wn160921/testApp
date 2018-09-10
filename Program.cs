@@ -8,6 +8,7 @@ namespace testApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("第一次写Cplusplusplusplus");
+            Console.Beep(1000,1000);
         }
     }
 }
